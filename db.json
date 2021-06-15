@@ -1,4 +1,4 @@
-[
+{
 {
 "userID" : 1,
 "name" : "John The Baptist",
@@ -20,4 +20,4 @@
 "paid" : false,
 "description" : "I want a quiet room without a bed",
 },
-]
+}
