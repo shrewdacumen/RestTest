@@ -1,0 +1,23 @@
+[
+{
+"userID" : 1,
+"name" : "John The Baptist",
+"hotel" : "Lamada Renessance, Seoul, South Korea",
+"paid" : true,
+"description" : "I want a room with Wi-Fi enabled, two beds",
+},
+{
+"userID" : 2,
+"name" : "Paul the Apostle",
+"hotel" : "Hilton, Seoul, South Korea",
+"paid" : false,
+"description" : "I want a room with good scenery",
+},
+{
+"userID" : 3,
+"name" : "Mathew the Apostle",
+"hotel" : "Hilton, Jerusalem, Israel",
+"paid" : false,
+"description" : "I want a quiet room without a bed",
+},
+]
